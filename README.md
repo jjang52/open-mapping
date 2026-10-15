@@ -32,6 +32,6 @@ Beyond foundational spatial literacy, participants exit the workshop with concre
 
 ```text
 open-mapping/
-├── final-outcomes/      # Final video & report submitted to Open Research Community Accelerator (ORCA) 
+├── final-report/        # Final report submitted to Open Research Community Accelerator (ORCA) 
 ├── lab-materials/       # Instructional notebooks, code templates, and workshop slides
 └── student-work/        # Participant-submitted workflows, scripts, and rendered map artifacts
