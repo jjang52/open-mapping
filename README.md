@@ -1,4 +1,5 @@
 <img width="1545" height="1999" alt="Open Critical Mapping Workshop" src="https://github.com/user-attachments/assets/49687461-b5a7-46a5-bd65-8ac90b9e93ae" />
+
 ## Open Critical Mapping Workshop
 
 The Open Critical Mapping Workshop builds capacity for open spatial-data analysis for Morehouse College faculty and students. Leveraging **R** and the **U.S. Census Bureau API (`tidycensus`)**, participants examine longitudinal demographic shifts and neighborhood change across Atlanta and Georgia while developing reproducible, public-facing analytical workflows.
