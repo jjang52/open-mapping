@@ -1,13 +1,13 @@
 <img width="1545" height="1999" alt="Open Critical Mapping Workshop" src="https://github.com/user-attachments/assets/49687461-b5a7-46a5-bd65-8ac90b9e93ae" />
 # Open Critical Mapping Workshop
 
-The **Open Critical Mapping Workshop** builds open spatial-data analysis capacity across the Atlanta University Center (AUC) Consortium. Leveraging **R** and the **U.S. Census Bureau API (`tidycensus`)**, participants examine longitudinal demographic shifts and neighborhood change across Atlanta and Georgia while developing reproducible, public-facing analytical workflows.
+The Open Critical Mapping Workshop builds capacity for open spatial-data analysis for Morehouse College faculty and students. Leveraging **R** and the **U.S. Census Bureau API (`tidycensus`)**, participants examine longitudinal demographic shifts and neighborhood change across Atlanta and Georgia while developing reproducible, public-facing analytical workflows.
 
 ---
 
 ## 🧭 Workshop Overview
 
-Participants engage with critical data science methodologies to move beyond static cartography. Through hands-on computational labs, cohort members query multi-year American Community Survey (ACS) datasets, process spatial features using `sf`, and visualize socioeconomic patterns across local and statewide scales.
+Through hands-on computational labs, participants query multi-year American Community Survey (ACS) datasets, process spatial features using `sf`, and visualize socioeconomic variables across local and statewide scales.
 
 ### Deliverables
 Each participant completes an end-to-end, reproducible spatial analysis pipeline, delivering:
